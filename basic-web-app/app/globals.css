@@ -1,0 +1,18 @@
+@import "tailwindcss";
+/* import any stylesheets */
+
+
+/* body {
+  background-color: rgb(20, 44, 51);
+  color: rgb(143, 245, 59);
+  font-family: monospace;
+}
+ */
+
+button {
+  /* cursor */
+  cursor: pointer;
+ }
+
+
+
