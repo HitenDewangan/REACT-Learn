@@ -1,4 +1,4 @@
-3502
+3510
 92D:\Codex My learning\REACT\Day 04\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js133996316611992218 0
 57D:\Codex My learning\REACT\Day 04\node_modules\nullthrows133996316611893501 1
 88D:\Codex My learning\REACT\Day 04\node_modules\lmdb\node_modules\node-addon-api\index.js133996316617640287 0
@@ -9,11 +9,19 @@
 82D:\Codex My learning\REACT\Day 04\node_modules\update-browserslist-db\package.json133996316605959874 0
 87D:\Codex My learning\REACT\Day 04\node_modules\@parcel\reporter-dev-server\package.json133996316619599169 0
 89D:\Codex My learning\REACT\Day 04\node_modules\@parcel\utils\test\input\config\config.cjs133996316613161586 0
-46D:\Codex My learning\REACT\Day 04\package.json133996347160328550 0
+46D:\Codex My learning\REACT\Day 04\package.json133996389115741873 0
 84D:\Codex My learning\REACT\Day 04\node_modules\postcss-value-parser\lib\stringify.js133996316604408170 0
 90D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\web-bluetooth.js133996316653296978 0
 53D:\Codex My learning\REACT\Day 04\node_modules\semver133996316622830457 1
-44D:\Codex My learning\REACT\Day 04\.gitignore133996335631995978 0
+44D:\Codex My learning\REACT\Day 04\.gitignore133996375498566492 0
+87D:\Codex My learning\REACT\Day 04\node_modules\lightningcss-win32-x64-msvc\package.json133996316602505839 0
+93D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-first-letter.js133996316631972343 0
+88D:\Codex My learning\REACT\Day 04\node_modules\msgpackr-extract\node_modules\detect-libc133996316607417269 1
+97D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133996316634515433 1
+83D:\Codex My learning\REACT\Day 04\node_modules\@parcel\source-map\dist\node.js.flow133996316604954128 0
+55D:\Codex My learning\REACT\Day 04\node_modules\escalade133996316611481406 1
+38D:\Codex My learning\REACT\Day 04\dist133996379221029289 1
+92D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\permissions-api.js133996316647804256 0
 79D:\Codex My learning\REACT\Day 04\node_modules\@parcel\transformer-html\LICENSE133996316607858475 0
 86D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\dom-range.js133996316638147376 0
 78D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\regions\BJ.js133996316626027781 0
@@ -21,10 +29,6 @@
 92D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\async-functions.js133996316620763540 0
 65D:\Codex My learning\REACT\Day 04\node_modules\@parcel\fs\LICENSE133996316611223750 0
 69D:\Codex My learning\REACT\Day 04\node_modules\picomatch\CHANGELOG.md133996316611564849 0
-44D:\Codex My learning\REACT\Day 04\index.html133996347982570503 0
-94D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-text-box-trim.js133996316635467260 0
-84D:\Codex My learning\REACT\Day 04\node_modules\@parcel\core\src\SymbolPropagation.js133996316632136782 0
-78D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\regions\MW.js133996316646639252 0
 78D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\regions\GI.js133996316641129808 0
 85D:\Codex My learning\REACT\Day 04\node_modules\node-releases\data\processed\envs.json133996316602863747 0
 88D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\wbr-element.js133996316653296978 0
@@ -32,6 +36,10 @@
 72D:\Codex My learning\REACT\Day 04\node_modules\lightningcss\node_modules133996316595880350 1
 97D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-text-orientation.js133996316635546482 0
 51D:\Codex My learning\REACT\Day 04\node_modules\.bin133996316654564594 1
+44D:\Codex My learning\REACT\Day 04\index.html133996379177538653 0
+94D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-text-box-trim.js133996316635467260 0
+84D:\Codex My learning\REACT\Day 04\node_modules\@parcel\core\src\SymbolPropagation.js133996316632136782 0
+78D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\regions\MW.js133996316646639252 0
 103D:\Codex My learning\REACT\Day 04\node_modules\lightningcss\node_modules\detect-libc\lib\detect-libc.js133996316602689706 0
 82D:\Codex My learning\REACT\Day 04\node_modules\postcss-value-parser\lib\index.d.ts133996316611331771 0
 91D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-line-clamp.js133996316633062615 0
@@ -40,7 +48,7 @@
 65D:\Codex My learning\REACT\Day 04\node_modules\chrome-trace-event133996316606837240 1
 84D:\Codex My learning\REACT\Day 04\node_modules\@parcel\transformer-babel\lib\flow.js133996316615697830 0
 65D:\Codex My learning\REACT\Day 04\node_modules\picomatch\index.js133996316603224603 0
-43D:\Codex My learning\REACT\Day 04\index.css133996319976895964 0
+43D:\Codex My learning\REACT\Day 04\index.css133996379012328385 0
 62D:\Codex My learning\REACT\Day 04\node_modules\lmdb\caching.js133996316630332134 0
 66D:\Codex My learning\REACT\Day 04\node_modules\regenerator-runtime133996316605180349 1
 72D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\_\_construct133996316636060977 1
@@ -58,7 +66,7 @@
 73D:\Codex My learning\REACT\Day 04\node_modules\@parcel\cache\lib\index.js133996316613172978 0
 70D:\Codex My learning\REACT\Day 04\node_modules\@parcel\source-map\dist133996316616661195 1
 78D:\Codex My learning\REACT\Day 04\node_modules\update-browserslist-db\index.js133996316604160686 0
-42D:\Codex My learning\REACT\Day 04\index.js133996348104039653 0
+42D:\Codex My learning\REACT\Day 04\index.js133996372795213397 0
 92D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-text-indent.js133996316635527238 0
 104D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133996316652511128 0
 46D:\Codex My learning\REACT\Day 04\node_modules133996320184223933 1
@@ -138,12 +146,6 @@
 57D:\Codex My learning\REACT\Day 04\node_modules\color-name133996316603655816 1
 91D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-gencontent.js133996316632320062 0
 53D:\Codex My learning\REACT\Day 04\node_modules\dotenv133996316614107981 1
-87D:\Codex My learning\REACT\Day 04\node_modules\lightningcss-win32-x64-msvc\package.json133996316602505839 0
-93D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-first-letter.js133996316631972343 0
-88D:\Codex My learning\REACT\Day 04\node_modules\msgpackr-extract\node_modules\detect-libc133996316607417269 1
-97D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133996316634515433 1
-83D:\Codex My learning\REACT\Day 04\node_modules\@parcel\source-map\dist\node.js.flow133996316604954128 0
-55D:\Codex My learning\REACT\Day 04\node_modules\escalade133996316611481406 1
 107D:\Codex My learning\REACT\Day 04\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133996316628344368 0
 57D:\Codex My learning\REACT\Day 04\node_modules\fill-range133996316603643626 1
 55D:\Codex My learning\REACT\Day 04\node_modules\get-port133996316613273026 1
@@ -167,6 +169,7 @@
 90D:\Codex My learning\REACT\Day 04\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133996316621086968 0
 56D:\Codex My learning\REACT\Day 04\node_modules\is-number133996316603643626 1
 78D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\regions\UG.js133996316652511128 0
+57D:\Codex My learning\REACT\Day 04\dist\Day 04.e02fbd41.js133996372799528026 0
 79D:\Codex My learning\REACT\Day 04\node_modules\node-gyp-build-optional-packages133996316606817232 1
 68D:\Codex My learning\REACT\Day 04\node_modules\picocolors\types.d.ts133996316606277462 0
 82D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\regions\alt-oc.js133996316616559057 0
@@ -1020,6 +1023,7 @@
 69D:\Codex My learning\REACT\Day 04\node_modules\json5\lib\stringify.js133996316611497821 0
 77D:\Codex My learning\REACT\Day 04\node_modules\lmdb\dependencies\lmdb-data-v1133996316604287989 1
 83D:\Codex My learning\REACT\Day 04\node_modules\node-addon-api\napi-inl.deprecated.h133996316606709459 0
+62D:\Codex My learning\REACT\Day 04\dist\Day 04.43f0f329.css.map133996379221029289 0
 78D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\regions\SZ.js133996316651827778 0
 72D:\Codex My learning\REACT\Day 04\node_modules\node-addon-api\napi-inl.h133996316612555129 0
 68D:\Codex My learning\REACT\Day 04\node_modules\node-addon-api\napi.h133996316613768741 0
@@ -2031,6 +2035,7 @@
 88D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-subgrid.js133996316635317971 0
 86D:\Codex My learning\REACT\Day 04\node_modules\@parcel\transformer-babel\src\config.js133996316614820500 0
 93D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-supports-api.js133996316635371185 0
+49D:\Codex My learning\REACT\Day 04\dist\index.html133996379220953456 0
 86D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\css-table.js133996316635410581 0
 90D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\_\_async_iterator\package.json133996316634010801 0
 93D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\cjs\_class_private_method_get.cjs133996316618330056 0
@@ -2073,6 +2078,7 @@
 84D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\history.js133996316641635692 0
 95D:\Codex My learning\REACT\Day 04\node_modules\@parcel\core\test\requests\DevDepRequest.test.js133996316626738648 0
 100D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js133996316637964658 0
+57D:\Codex My learning\REACT\Day 04\dist\Day 04.271b8d97.js133996379077352870 0
 79D:\Codex My learning\REACT\Day 04\node_modules\@mischnic\json-sourcemap\LICENSE133996316606937877 0
 97D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\document-execcommand.js133996316638015329 0
 81D:\Codex My learning\REACT\Day 04\node_modules\@parcel\optimizer-swc\package.json133996316613082631 0
@@ -2237,7 +2243,6 @@
 90D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\passwordrules.js133996316647804256 0
 67D:\Codex My learning\REACT\Day 04\node_modules\@swc\types\README.md133996316604882869 0
 83D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\path2d.js133996316647804256 0
-92D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\permissions-api.js133996316647804256 0
 95D:\Codex My learning\REACT\Day 04\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133996316641243908 0
 95D:\Codex My learning\REACT\Day 04\node_modules\caniuse-lite\data\features\permissions-policy.js133996316647955989 0
 87D:\Codex My learning\REACT\Day 04\node_modules\@parcel\core\src\requests\PathRequest.js133996316630169021 0
@@ -2732,6 +2737,7 @@
 72D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\cjs\_set.cjs133996316626535022 0
 94D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\cjs\_skip_first_generator_next.cjs133996316626582035 0
 84D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\cjs\_sliced_to_array.cjs133996316626706871 0
+58D:\Codex My learning\REACT\Day 04\dist\Day 04.43f0f329.css133996379220953456 0
 82D:\Codex My learning\REACT\Day 04\node_modules\@parcel\workers\lib\web\WebChild.js133996316622332646 0
 90D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\cjs\_sliced_to_array_loose.cjs133996316626648555 0
 84D:\Codex My learning\REACT\Day 04\node_modules\@swc\helpers\cjs\_super_prop_base.cjs133996316626748892 0
@@ -3501,3 +3507,5 @@
 62D:\Codex My learning\REACT\Day 04\node_modules\.bin\parcel.ps1133996316654585139 0
 74D:\Codex My learning\REACT\Day 04\node_modules\.bin\update-browserslist-db133996316654585139 0
 78D:\Codex My learning\REACT\Day 04\node_modules\.bin\update-browserslist-db.cmd133996316654585139 0
+61D:\Codex My learning\REACT\Day 04\dist\Day 04.271b8d97.js.map133996379077500968 0
+61D:\Codex My learning\REACT\Day 04\dist\Day 04.e02fbd41.js.map133996372799583524 0
