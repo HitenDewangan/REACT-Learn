@@ -1,0 +1,18 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "hiten dewangan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "browserslist": [
+    "default"
+  ]
+}
